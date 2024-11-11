@@ -1,12 +1,13 @@
 title: Carlos García # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  About me:
   <br>
   Hello, my name is Carlos Garcia, (Geo) Data Scientist right now working at Tec de Monterrey and teacher at UNAM
   <br>
   I have a bachelor degree in economics, speciality in geomatics and a master degree in computational geointellience
   <br>
+  
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/cgarcia8cg/">View My LinkedIn Profile</a> 
