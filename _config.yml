@@ -1,5 +1,6 @@
 title: Carlos García # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+<!-- logo: "/images/logo.png?raw=true" --> # your photo (or logo) here
+logo: "/images/cropped_carlos.png?raw=true"
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
   About me:
