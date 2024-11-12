@@ -1,16 +1,23 @@
 title: Carlos García # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logoLink: "/images/logo:linkedin.png?raw=true" # your photo (or logo) here
+
 description: > # your text below (remove <br> elements if you don't need line breaks)
   About me:
   <br>
-  Hello, my name is Carlos Garcia, (Geo) Data Scientist right now working at Tec de Monterrey and teacher at UNAM
+  Hello, my name is Carlos Garcia, (Geo) Data Scientist right now working at Tec de Monterrey and teacher at UNAM.
+  <br>
   <br>
   I have a bachelor degree in economics, speciality in geomatics and a master degree in computational geointellience
   <br>
+  <br>
   
-  Second description 
-  <br><br>
+  I have been working in a variety of projects like fraud detection using geospatial features, prediction of student terminal efficiency, forecast of sales using spatio-temporal approach, etc.
+  <br>
+  <br>
+  
   <a href="https://www.linkedin.com/in/cgarcia8cg/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/cgarcia8cg/"><img src=logoLink></a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
