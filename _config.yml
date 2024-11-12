@@ -17,7 +17,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   
   <a href="https://www.linkedin.com/in/cgarcia8cg/">View My LinkedIn Profile</a> 
-  <a href="https://www.linkedin.com/in/cgarcia8cg/"><img src=logoLink></a>
+  <a href="https://www.linkedin.com/in/cgarcia8cg/"><img src="/images/logo:linkedin.png?raw=true"></a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
