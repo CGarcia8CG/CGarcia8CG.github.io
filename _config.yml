@@ -17,12 +17,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <!-- <a href="https://www.linkedin.com/in/cgarcia8cg/">View My LinkedIn Profile</a> -->
   <a href="https://www.linkedin.com/in/cgarcia8cg/"><img src="/images/logolinkedin.png?raw=true"></a>
-  <a href="https://github.com/CGarcia8CG"><img src="/images/githubblack.png?raw=true"></a>
+  <a href="https://github.com/CGarcia8CG"><img src="/images/githubblack.png?raw=true" width=256 height=256>></a>
 
   <br>
   Certtifications:
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/CARLOSDAVIDGARCIAHERNANDEZ-5086/DE7241A9318BF576?sharingId=EDE53E9F5AC87624"><img src="/images/logoAzfund.png?raw=true" width=256 height=256></a>
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/CARLOSDAVIDGARCIAHERNANDEZ-5086/6ED38074F499249A?sharingId=EDE53E9F5AC87624"><img src="/images/logoAZDS.png?raw=true" width=256 height=256></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/CARLOSDAVIDGARCIAHERNANDEZ-5086/DE7241A9318BF576?sharingId=EDE53E9F5AC87624"><img src="/images/logoAzfund.png?raw=true" width=128 height=128></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/CARLOSDAVIDGARCIAHERNANDEZ-5086/6ED38074F499249A?sharingId=EDE53E9F5AC87624"><img src="/images/logoAZDS.png?raw=true" width=128 height=128></a>
   <br>
   
 remote_theme: pages-themes/minimal@v0.2.0
