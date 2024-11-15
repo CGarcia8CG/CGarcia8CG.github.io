@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 EcoBici (Mexico City) PageRank use case](/sample_page)
+[Project 1 EcoBici (Mexico City) PageRank use case](/page1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
