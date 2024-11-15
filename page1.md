@@ -1,6 +1,8 @@
 ## Ecobici most importante station using PageRank
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Mexico City is a large metropolis that is trying to implement more bicycle use through the Ecobici program
+
+Through the use of graphs it is possible to identify the stations with the greatest (or least) influx with the purpose of implementing public policy to avoid a lack of supply (or excess supply) at the stations, thus avoiding long waiting times and promoting customer service. use of the bicycle
 
 ### 1. Suggest hypotheses about the causes of observed phenomena
 
