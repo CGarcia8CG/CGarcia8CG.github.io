@@ -1,8 +1,8 @@
-## Projects
+## Portfolio
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [Project 1 EcoBici (Mexico City) PageRank use case](/page1)
 <img src="images/map-ecobici.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Smaller projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
