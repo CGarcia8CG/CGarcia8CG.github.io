@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Project 1 Metro (Mexico City) Centrality Analysis](/sample_page)
+[Project 1 Metro (Mexico City) Centrality Analysis](/metro_page)
 <img src="images/map-ecobici.jpg?raw=true"/>
 
 ---
