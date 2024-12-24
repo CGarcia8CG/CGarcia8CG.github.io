@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Project 1 EcoBici (Mexico City) PageRank use case](/page1)
+[Project 1 Metro (Mexico City) Centrality Analysis](/sample_page)
 <img src="images/map-ecobici.jpg?raw=true"/>
 
 ---
@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 1 EcoBici (Mexico City) PageRank use case](/page3)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
