@@ -103,32 +103,6 @@
    </div>
    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 
-    <div class="container">
-    <button id="theme-toggle">Cambiar Tema</button>
-    <h1>Bienvenido a Mi Página</h1>
-    <p>Esta es una página simple con soporte para tema oscuro.</p>
-
-    <div class="card">
-      <h2>Ejemplo de Tarjeta</h2>
-      <p>Este es un contenido de muestra dentro de una tarjeta.</p>
-    </div>
-  </div>
-
-  <script>
-    const toggleButton = document.getElementById('theme-toggle');
-
-    // Cambiar entre temas claro y oscuro
-    toggleButton.addEventListener('click', () => {
-      const currentTheme = document.documentElement.getAttribute('data-theme');
-      const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-      document.documentElement.setAttribute('data-theme', newTheme);
-      localStorage.setItem('theme', newTheme); // Guarda el estado del tema
-    });
-
-    // Aplica el tema guardado al cargar la página
-    const savedTheme = localStorage.getItem('theme') || 'dark';
-    document.documentElement.setAttribute('data-theme', savedTheme);
-  </script>
    
 </body>
 </html>
