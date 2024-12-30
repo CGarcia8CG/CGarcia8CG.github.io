@@ -6,7 +6,7 @@
 
 [Project 1 Metro (Mexico City) Centrality Analysis](/metro_page)
 [<img src="images/example_metro_map.jpg?raw=true" width="600" height="400"](/metro_page)
-<img src="images/example_metro_map.jpg?raw=true" width="600" height="400" onclick="/metro_page"/>
+<img src="images/example_metro_map.jpg?raw=true" width="450" height="600" onclick="/metro_page"/>
 
 
 ---
