@@ -1,6 +1,6 @@
 ## Mexico City metro network centrality 
 
-**Project description:** The Mexico City metro is, in addition to part of Chilango folklore, the most efficient transportation in terms of speed and ability to move people.
+Project description: The Mexico City metro is, in addition to part of Chilango folklore, the most efficient transportation in terms of speed and ability to move people.
 
 Even though today there are other alternatives such as the Metrobus (project in progress) and new forms of mobility such as the Cablebus, the metro continues to be the main mobility actor.
 
