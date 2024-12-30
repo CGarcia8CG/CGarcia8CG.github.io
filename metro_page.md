@@ -6,7 +6,7 @@ Even though today there are other alternatives such as the Metrobus (project in 
 
 Through the use of graphs it is possible to identify the stations with the greatest (or least) influx with the purpose of implementing public policy to avoid a lack of supply (or excess supply) at the stations, thus avoiding long waiting times and promoting customer service. use of the bicycle
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. About Centralities
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
@@ -16,7 +16,7 @@ if (isAwesome){
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Mexico City metro example
 
 ```javascript
 if (isAwesome){
@@ -24,11 +24,9 @@ if (isAwesome){
 }
 ```
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Mexico City metro example, visit the app
 
 <img src="images/example_metro_map.jpg?raw=true"/>
-
-### 4. Visit the app
 
 You can check it by yourself at this [Streamlit Community Cloud Link](https://metro-cdmx-2nah44unsy3knldg7e6ncq.streamlit.app/).
 
