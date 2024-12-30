@@ -5,7 +5,7 @@
 ### Projects 
 
 [Project 1 Metro (Mexico City) Centrality Analysis](/metro_page)
-<img src="images/example-metro.map.jpg?raw=true"/>
+<img src="images/example-metro_map.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
