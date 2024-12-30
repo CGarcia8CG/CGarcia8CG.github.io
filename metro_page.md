@@ -26,10 +26,10 @@ if (isAwesome){
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
-<img src="images/map-ecobici.jpg?raw=true"/>
+<img src="images/example_metro_map.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 4. Visit the app
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+You can check it by yourself at this [Streamlit Community Cloud Link]([https://guides.github.com/features/mastering-markdown/](https://metro-cdmx-2nah44unsy3knldg7e6ncq.streamlit.app/)).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+And in the [GitHub Project]([https://guides.github.com/features/mastering-markdown/](https://github.com/CGarcia8CG/Metro-cdmx)).
