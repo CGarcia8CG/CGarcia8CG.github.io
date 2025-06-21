@@ -20,8 +20,8 @@
 ---
 
 ### Academic work
-
-- [Teaching](http://example.com/)
+<!-- - [Teaching](http://example.com/) -->****
+- [Teaching](/teaching)
 - [Publications](http://example.com/)
 - [Professional exams](http://example.com/)
 - [Academic presentations](http://example.com/)
