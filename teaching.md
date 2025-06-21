@@ -2,9 +2,17 @@
 
 **Project description:** 
 
-#### 2026-1. Regional Economic Research and Analysis
+#### Semester 2026-1. Part-time Professor UNAM
+- Regional Economic Research and Analysis
+- 
+```javascript
+if (isAwesome){
+  return true
+}
+```
 
-asdasdasd
+#### Semester 2025-2. Part-time Professor UNAM
+- Regional Economic Research and Analysis
 
 ```javascript
 if (isAwesome){
@@ -12,13 +20,16 @@ if (isAwesome){
 }
 ```
 
-#### 2025-2. Regional Economic Research and Analysis
+#### Semester 2023-1. Assistant professor
+- Microeconomics II
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+  
+#### Semesters 2015-1 to 2018-2. Assistant professor
+- Introduction to economic theory
+- - Aasdasd
+- Microeconomics I
+- Microeconomics II
+
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
