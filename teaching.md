@@ -26,7 +26,7 @@ if (isAwesome){
   
 #### Semesters 2015-1 to 2018-2. Assistant professor
 - Introduction to economic theory
-- - Aasdasd
+  - Aasdasd
 - Microeconomics I
 - Microeconomics II
 
