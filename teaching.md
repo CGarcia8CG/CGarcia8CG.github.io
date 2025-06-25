@@ -2,18 +2,13 @@
 
 **Project description:** 
 
-#### Semester 2026-1. Part-time Professor UNAM
+#### Semester 2025- to 2026-1. Part-time Professor UNAM
 - Regional Economic Research and Analysis
-- 
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-#### Semester 2025-2. Part-time Professor UNAM
-- Regional Economic Research and Analysis
-
+  - Clustering and regionalization applied methods to identify homogeneous regions
+  - Network centrality and gravity models to identify nodal regions
+  - Linear regression and introduction to spatial regression models
+  - Hot-Spot analysis and LISA models applied to government social problems (crime and transport) 
+    
 ```javascript
 if (isAwesome){
   return true
@@ -22,6 +17,7 @@ if (isAwesome){
 
 #### Semester 2023-1. Assistant professor
 - Microeconomics II
+  - Aasdasd
 
   
 #### Semesters 2015-1 to 2018-2. Assistant professor
