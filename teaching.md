@@ -7,8 +7,10 @@
   - Clustering and regionalization applied methods to identify homogeneous regions
   - Network centrality and gravity models to identify nodal regions
   - Linear regression and introduction to spatial regression models
-  - Hot-Spot analysis and LISA models applied to government social problems (crime and transport) 
+  - Hot-Spot analysis and LISA models applied to government social problems (crime and transport)
     
+--- Software: Python, GeoDa, QGIS
+
 ```javascript
 if (isAwesome){
   return true
